@@ -67,7 +67,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "c:/temp/gyartani")
+			(outputdirectory "gerbers/")
 		)
 	)
 	(net 0 "")

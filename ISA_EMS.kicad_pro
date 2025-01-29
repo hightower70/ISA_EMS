@@ -815,7 +815,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "c:/temp/gyartani",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
