@@ -7,6 +7,8 @@ This is a redesign of the **lo-tech.co.uk** [2Mb ISA EMS board](https://www.lo-t
 - All thru-hole instead of SMD, while retaining a rather compact format
 - Simplified address decoding and storage circuits for less chip count
 
+All design files and gerber files for PCB manufacturing are avaiable in the repository. The schematics [schematics](schematics.pdf) is also avaiable in PDF format.
+
 The card was tested in modern replica of an XT computer like Xi8088 and Micro8088 without issues.
 
 ![Rev. 1.0 PCB](pics/ISA_EMS.png)
