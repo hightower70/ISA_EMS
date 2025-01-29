@@ -1,7 +1,5 @@
 # 2MByte ISA EMS Expansion Card for IBM PC XT computers
 
-## Introduction
-
 This is a redesign of the **lo-tech.co.uk** [2Mb ISA EMS board](https://www.lo-tech.co.uk/wiki/Lo-tech_2MB_EMS_Board) with some changes:
 
 - All thru-hole instead of SMD, while retaining a rather compact format
